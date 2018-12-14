@@ -19,7 +19,7 @@ relationships with each other.
 To meet the above objectives the notebook contains information on the original data set, the relationships between the variables selected and how they were modelled to create the random data set.
 
 How to run the notebook -
-To run, edit and view this notebook the download option can be used on the dashboard view for this repository. This will download a zip file containing the notebook and files related to this assignment.
+To run, edit and view this notebook (Simulation of Data Set) the download option can be used on the dashboard view for this repository. This will download a zip file containing the notebook and files related to this assignment.
 
 In order to use this notebook it is required to have the correct packages installed which allow jupyter notebook to be utilised on the machine being used to view this file. The most popular way to install this, and multiple other useful packages, is through the use of Anaconda. [1]
 
